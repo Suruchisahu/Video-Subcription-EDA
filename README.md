@@ -1,5 +1,3 @@
-Absolutely, here's a README file you can use for your Github repository containing the EDA code:
-
 ## MavenFlix Subscription Analysis
 
 This repository contains Python code for Exploratory Data Analysis (EDA) on a subscription cohort analysis dataset for MavenFlix. 
@@ -53,3 +51,10 @@ The script will generate output including:
 ### Contributing
 
 Feel free to contribute to this project by forking the repository and submitting pull requests with improvements or additional functionalities.
+
+
+### Recommended Analysis
+
+1. How have MavenFlix subscriptions trended over time?
+2. What percentage of customers have subscribed for 5 months or more?
+3. What month had the highest subscriber retention, and the lowest?
